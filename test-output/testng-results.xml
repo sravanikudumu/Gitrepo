@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[creating object of chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigate to url]]>
+    </line>
+    <line>
+      <![CDATA[waiting for page to load...]]>
+    </line>
+    <line>
+      <![CDATA[Page is loaded]]>
+    </line>
+    <line>
+      <![CDATA[==========Starting VerifyloginWithValidCredentials test=========]]>
+    </line>
+    <line>
+      <![CDATA[Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']]]>
+    </line>
+    <line>
+      <![CDATA[Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']]]>
+    </line>
+    <line>
+      <![CDATA[==========Ending VerifyloginWithValidCredentials test=========]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]/a]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on MembershipType Dropdown:-By.xpath: .//*[@id='membership']/div[1]/div/div/div/select/option[contains(text(),'Individual BPs')]]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Add button and object is:-By.xpath: //span[@id='addNewBP']]]>
+    </line>
+    <line>
+      <![CDATA[Entered BP Name and object is:-By.xpath: .//*[@id='bpName']]]>
+    </line>
+    <line>
+      <![CDATA[Entered ceid and object is:-By.xpath: .//*[@id='ceid']]]>
+    </line>
+    <line>
+      <![CDATA[Entered Country and object is:-By.xpath: .//*[@id='country']]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on AddBPs button and object is:-By.xpath: //button[@name='addMember']]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on :-By.xpath: .//*[@id='individualBP']/div/div[4]/div/div[2]/button]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="91295" started-at="2017-08-24T09:46:33Z" finished-at="2017-08-24T09:48:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="91295" started-at="2017-08-24T09:46:33Z" finished-at="2017-08-24T09:48:04Z">
+      <class name="com.ibm.mySA_IA.testScripts.TC_113158_001_VerifyAddedNewBP4Incentive">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ibm.mySA_IA.testScripts.TC_113158_001_VerifyAddedNewBP4Incentive@71318ec4]" name="setUp" is-config="true" duration-ms="43093" started-at="2017-08-24T15:16:33Z" finished-at="2017-08-24T15:17:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[creating object of chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigate to url]]>
+            </line>
+            <line>
+              <![CDATA[waiting for page to load...]]>
+            </line>
+            <line>
+              <![CDATA[Page is loaded]]>
+            </line>
+            <line>
+              <![CDATA[==========Starting VerifyloginWithValidCredentials test=========]]>
+            </line>
+            <line>
+              <![CDATA[Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']]]>
+            </line>
+            <line>
+              <![CDATA[Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']]]>
+            </line>
+            <line>
+              <![CDATA[==========Ending VerifyloginWithValidCredentials test=========]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testVerifyAddedNewBp()[pri:0, instance:com.ibm.mySA_IA.testScripts.TC_113158_001_VerifyAddedNewBP4Incentive@71318ec4]" name="testVerifyAddedNewBp" duration-ms="45489" started-at="2017-08-24T15:17:16Z" finished-at="2017-08-24T15:18:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]/a]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on MembershipType Dropdown:-By.xpath: .//*[@id='membership']/div[1]/div/div/div/select/option[contains(text(),'Individual BPs')]]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Add button and object is:-By.xpath: //span[@id='addNewBP']]]>
+            </line>
+            <line>
+              <![CDATA[Entered BP Name and object is:-By.xpath: .//*[@id='bpName']]]>
+            </line>
+            <line>
+              <![CDATA[Entered ceid and object is:-By.xpath: .//*[@id='ceid']]]>
+            </line>
+            <line>
+              <![CDATA[Entered Country and object is:-By.xpath: .//*[@id='country']]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on AddBPs button and object is:-By.xpath: //button[@name='addMember']]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on :-By.xpath: .//*[@id='individualBP']/div/div[4]/div/div[2]/button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testVerifyAddedNewBp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ibm.mySA_IA.testScripts.TC_113158_001_VerifyAddedNewBP4Incentive@71318ec4]" name="tearDown" is-config="true" duration-ms="2694" started-at="2017-08-24T15:18:01Z" finished-at="2017-08-24T15:18:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ibm.mySA_IA.testScripts.TC_113158_001_VerifyAddedNewBP4Incentive -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,636 @@
+2017-08-18 17:00:05 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-18 17:00:05 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-18 17:00:05 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-18 17:00:41 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-18 17:00:43 INFO  TestBase:92 - Selected incentive and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-18 17:00:43 INFO  TestBase:92 - clicked on solution tab and object is:-By.xpath: //a[contains(text(),'Solutions')]
+2017-08-18 17:00:46 INFO  TestBase:92 - clicked on Add Existing Solution and object is:-By.xpath: //a[contains(text(),'Add Existing Solutions')]
+2017-08-18 17:00:50 INFO  TestBase:92 - clicked on checkbox and object is:-By.xpath: //table[@id='viewSolutionTable']/tbody/tr[1]/td[1]//label/div
+2017-08-18 17:00:53 INFO  TestBase:92 - clicked on Add button and object is:-By.xpath: //a[@id='addsolution'][contains(text(),'Add')]
+2017-08-18 17:01:00 INFO  TestBase:92 - clicked on Save button and object is:-By.xpath: //a[contains(text(),'Save')]
+2017-08-18 17:01:05 INFO  TestBase:92 - Selected incentive and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-18 17:01:05 INFO  TestBase:92 - clicked on solution tab and object is:-By.xpath: //a[contains(text(),'Solutions')]
+2017-08-18 17:01:08 INFO  TestBase:92 - Verified Actual Text
+2017-08-18 17:01:10 INFO  TestBase:92 - clicked on Save button and object is:-By.xpath: //a[contains(text(),'Save')]
+2017-08-18 17:04:13 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-18 17:04:14 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-18 17:04:14 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-18 17:04:50 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-18 17:04:52 INFO  TestBase:92 - Selected incentive and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-18 17:04:52 INFO  TestBase:92 - clicked on solution tab and object is:-By.xpath: //a[contains(text(),'Solutions')]
+2017-08-18 17:04:55 INFO  TestBase:92 - clicked on Add Existing Solution and object is:-By.xpath: //a[contains(text(),'Add Existing Solutions')]
+2017-08-18 17:04:58 INFO  TestBase:92 - clicked on checkbox and object is:-By.xpath: //table[@id='viewSolutionTable']/tbody/tr[1]/td[1]//label/div
+2017-08-18 17:05:01 INFO  TestBase:92 - clicked on Add button and object is:-By.xpath: //a[@id='addsolution'][contains(text(),'Add')]
+2017-08-18 17:05:08 INFO  TestBase:92 - clicked on Save button and object is:-By.xpath: //a[contains(text(),'Save')]
+2017-08-18 17:05:13 INFO  TestBase:92 - Selected incentive and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-18 17:05:13 INFO  TestBase:92 - clicked on solution tab and object is:-By.xpath: //a[contains(text(),'Solutions')]
+2017-08-18 17:05:16 INFO  TestBase:92 - Verified Actual Text
+2017-08-18 17:05:18 INFO  TestBase:92 - clicked on Save button and object is:-By.xpath: //a[contains(text(),'Save')]
+2017-08-18 17:05:18 INFO  TestBase:92 - creating object of chrome
+2017-08-18 17:05:20 INFO  TestBase:92 - Navigate to url
+2017-08-18 17:05:23 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-18 17:05:23 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-18 17:05:23 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-18 17:05:59 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-18 17:06:01 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-18 17:06:03 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-18 17:06:05 INFO  TestBase:92 - Clicked on MembershipType Dropdown:-By.xpath: .//*[@id='membership']/div[1]/div/div/div/select/option[contains(text(),'Individual BPs')]
+2017-08-18 17:06:08 INFO  TestBase:92 - Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']
+2017-08-18 17:06:11 INFO  TestBase:92 - Entered Ceid in Search filed of AddMember Popup:-By.xpath: .//*[@id='search_mem']and object is:-By.xpath: .//*[@id='search_mem']
+2017-08-18 17:06:16 INFO  TestBase:92 - Clicked on check box to check it :-By.xpath: .//*[@id='viewMemberTable_tbody']/tr[1]/td[1]/div/label[@for='checkbox_0']
+2017-08-18 17:06:27 INFO  TestBase:92 - Clicked on AddBPs button :-By.xpath: .//button[@id='addMember']
+2017-08-18 17:06:47 INFO  TestBase:92 - creating object of chrome
+2017-08-18 17:06:48 INFO  TestBase:92 - Navigate to url
+2017-08-18 17:06:52 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-18 17:06:52 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-18 17:06:52 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-18 17:07:29 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-18 17:07:31 INFO  TestBase:92 - Selected incentive and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-18 17:07:31 INFO  TestBase:92 - clicked on solution tab and object is:-By.xpath: //a[contains(text(),'Solutions')]
+2017-08-18 17:07:34 INFO  TestBase:92 - clicked on Add Existing Solution and object is:-By.xpath: //a[contains(text(),'Add Existing Solutions')]
+2017-08-18 17:07:38 INFO  TestBase:92 - clicked on checkbox and object is:-By.xpath: //table[@id='viewSolutionTable']/tbody/tr[1]/td[1]//label/div
+2017-08-18 17:07:41 INFO  TestBase:92 - clicked on Add button and object is:-By.xpath: //a[@id='addsolution'][contains(text(),'Add')]
+2017-08-18 17:07:48 INFO  TestBase:92 - clicked on Save button and object is:-By.xpath: //a[contains(text(),'Save')]
+2017-08-18 17:07:52 INFO  TestBase:92 - Selected incentive and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-18 17:07:52 INFO  TestBase:92 - clicked on solution tab and object is:-By.xpath: //a[contains(text(),'Solutions')]
+2017-08-18 17:07:56 INFO  TestBase:92 - Verified Actual Text
+2017-08-18 17:07:58 INFO  TestBase:92 - clicked on Save button and object is:-By.xpath: //a[contains(text(),'Save')]
+2017-08-18 17:07:59 INFO  TestBase:92 - Selected incentive and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-18 17:07:59 INFO  TestBase:92 - clicked on solution tab and object is:-By.xpath: //a[contains(text(),'Solutions')]
+2017-08-18 17:08:03 INFO  TestBase:92 - clicked on searchbutton:-1JF-21RIMAGand object is:-By.xpath: //input[@placeholder='Solution ID,Type or Level1']
+2017-08-18 17:08:06 INFO  TestBase:92 - Verified Actual Text
+2017-08-18 17:08:08 INFO  TestBase:92 - clicked on Save button and object is:-By.xpath: //a[contains(text(),'Save')]
+2017-08-18 17:08:09 INFO  TestBase:92 - Selected incentive and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-18 17:08:10 INFO  TestBase:92 - clicked on solution tab and object is:-By.xpath: //a[contains(text(),'Solutions')]
+2017-08-18 17:08:13 INFO  TestBase:92 - Verified Actual Text
+2017-08-18 17:08:15 INFO  TestBase:92 - clicked on Save button and object is:-By.xpath: //a[contains(text(),'Save')]
+2017-08-18 17:08:16 INFO  TestBase:92 - Selected incentive and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-18 17:08:16 INFO  TestBase:92 - clicked on solution tab and object is:-By.xpath: //a[contains(text(),'Solutions')]
+2017-08-18 17:08:20 INFO  TestBase:92 - clicked on add new solution tab and object is:-By.xpath: .//*[@style='margin-left: 454px;width: 280px;'][contains(text(),'Add New Solution')]
+2017-08-18 17:08:20 INFO  TestBase:92 - Entered solution type:-typeand object is:-By.xpath: //input[@id='solutionType']
+2017-08-18 17:08:20 INFO  TestBase:92 - Entered level1:-Test1and object is:-By.xpath: //input[@id='level1']
+2017-08-18 17:08:20 INFO  TestBase:92 - Entered level1 description:-Test1 solutionand object is:-By.xpath: //input[@id='level1Desc']
+2017-08-18 17:08:20 INFO  TestBase:92 - Entered level2:-Test2and object is:-By.xpath: //input[@id='level2']
+2017-08-18 17:08:20 INFO  TestBase:92 - Entered level2 description:-Test2 solutionand object is:-By.xpath: //input[@id='level2Desc']
+2017-08-18 17:08:21 INFO  TestBase:92 - Entered level3:-Test3and object is:-By.xpath: //input[@id='level3']
+2017-08-18 17:08:21 INFO  TestBase:92 - Entered level3 description:-Test3 solutionand object is:-By.xpath: //input[@id='level3Desc']
+2017-08-18 17:08:21 INFO  TestBase:92 - Entered level4:-Test4and object is:-By.xpath: //input[@id='level4']
+2017-08-18 17:08:21 INFO  TestBase:92 - Entered level4 description:-test4 Solutiondescand object is:-By.xpath: //input[@id='level4Desc']
+2017-08-18 17:08:24 INFO  TestBase:92 - clicked on add button and object is:-By.xpath: //button[@id='addnewsolution'][contains(text(),'Add')]
+2017-08-18 17:08:29 INFO  TestBase:92 - clicked on Save button and object is:-By.xpath: //a[contains(text(),'Save')]
+2017-08-18 17:08:34 INFO  TestBase:92 - Selected incentive and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-18 17:08:34 INFO  TestBase:92 - clicked on solution tab and object is:-By.xpath: //a[contains(text(),'Solutions')]
+2017-08-18 17:08:46 INFO  TestBase:92 - clicked on Save button and object is:-By.xpath: //a[contains(text(),'Save')]
+2017-08-21 14:54:22 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-21 14:54:22 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-21 14:54:22 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-21 14:54:59 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-21 14:56:27 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-21 14:56:28 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-21 14:56:28 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-21 14:57:04 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-21 15:00:01 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-21 15:00:40 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-21 15:00:40 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-21 15:00:40 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-21 15:01:16 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-21 15:01:18 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-21 15:01:18 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-21 15:02:31 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-21 15:02:32 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-21 15:02:32 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-21 15:03:08 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-21 15:03:10 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-21 15:19:26 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-21 15:19:26 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-21 15:19:26 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-21 15:20:02 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-21 15:20:04 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-21 15:20:04 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-21 15:20:09 INFO  TestBase:92 - Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']
+2017-08-21 15:20:15 INFO  TestBase:92 - Clicked on Add button and object is:-By.xpath: //span[@id='addNewBP']
+2017-08-21 15:20:20 INFO  TestBase:92 - Entered BP Name and object is:-By.xpath: .//*[@id='bpName']
+2017-08-21 15:20:20 INFO  TestBase:92 - Entered ceid and object is:-By.xpath: .//*[@id='ceid']
+2017-08-21 15:20:20 INFO  TestBase:92 - Entered Country and object is:-By.xpath: .//*[@id='country']
+2017-08-21 15:29:08 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-21 15:29:08 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-21 15:29:08 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-21 15:29:44 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-21 15:29:46 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-21 15:29:46 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-21 15:29:51 INFO  TestBase:92 - Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']
+2017-08-21 15:29:56 INFO  TestBase:92 - Clicked on Add button and object is:-By.xpath: //span[@id='addNewBP']
+2017-08-21 15:30:01 INFO  TestBase:92 - Entered BP Name and object is:-By.xpath: .//*[@id='bpName']
+2017-08-21 15:30:01 INFO  TestBase:92 - Entered ceid and object is:-By.xpath: .//*[@id='ceid']
+2017-08-21 15:30:02 INFO  TestBase:92 - Entered Country and object is:-By.xpath: .//*[@id='country']
+2017-08-21 15:31:15 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-21 15:31:15 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-21 15:31:15 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-21 15:31:51 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-21 15:31:53 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-21 15:31:53 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-21 15:31:58 INFO  TestBase:92 - Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']
+2017-08-21 15:32:03 INFO  TestBase:92 - Clicked on Add button and object is:-By.xpath: //span[@id='addNewBP']
+2017-08-21 15:32:08 INFO  TestBase:92 - Entered BP Name and object is:-By.xpath: .//*[@id='bpName']
+2017-08-21 15:32:09 INFO  TestBase:92 - Entered ceid and object is:-By.xpath: .//*[@id='ceid']
+2017-08-21 15:32:09 INFO  TestBase:92 - Entered Country and object is:-By.xpath: .//*[@id='country']
+2017-08-21 15:34:41 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-21 15:34:41 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-21 15:34:41 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-21 15:35:17 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-21 15:35:19 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-21 15:35:19 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-21 15:35:24 INFO  TestBase:92 - Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']
+2017-08-21 15:35:29 INFO  TestBase:92 - Clicked on Add button and object is:-By.xpath: //span[@id='addNewBP']
+2017-08-21 15:35:34 INFO  TestBase:92 - Entered BP Name and object is:-By.xpath: .//*[@id='bpName']
+2017-08-21 15:35:34 INFO  TestBase:92 - Entered ceid and object is:-By.xpath: .//*[@id='ceid']
+2017-08-21 15:35:35 INFO  TestBase:92 - Entered Country and object is:-By.xpath: .//*[@id='country']
+2017-08-21 15:35:45 INFO  TestBase:92 - Clicked on AddBPs button and object is:-By.xpath: //button[@name='addMember']
+2017-08-21 16:54:43 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-21 16:54:43 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-21 16:54:43 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-21 16:55:19 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-21 16:55:21 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-21 16:55:21 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-21 16:55:26 INFO  TestBase:92 - Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']
+2017-08-21 16:55:31 INFO  TestBase:92 - Clicked on Add button and object is:-By.xpath: //span[@id='addNewBP']
+2017-08-21 16:55:36 INFO  TestBase:92 - Entered BP Name and object is:-By.xpath: .//*[@id='bpName']
+2017-08-21 16:55:37 INFO  TestBase:92 - Entered ceid and object is:-By.xpath: .//*[@id='ceid']
+2017-08-21 16:55:37 INFO  TestBase:92 - Entered Country and object is:-By.xpath: .//*[@id='country']
+2017-08-21 16:55:47 INFO  TestBase:92 - Clicked on AddBPs button and object is:-By.xpath: //button[@name='addMember']
+2017-08-21 16:59:38 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-21 16:59:38 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-21 16:59:38 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-21 17:00:15 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-21 17:00:17 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-21 17:00:17 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-21 17:00:22 INFO  TestBase:92 - Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']
+2017-08-21 17:00:27 INFO  TestBase:92 - Clicked on Add button and object is:-By.xpath: //span[@id='addNewBP']
+2017-08-21 17:00:32 INFO  TestBase:92 - Entered BP Name and object is:-By.xpath: .//*[@id='bpName']
+2017-08-21 17:00:32 INFO  TestBase:92 - Entered ceid and object is:-By.xpath: .//*[@id='ceid']
+2017-08-21 17:00:33 INFO  TestBase:92 - Entered Country and object is:-By.xpath: .//*[@id='country']
+2017-08-21 17:00:43 INFO  TestBase:92 - Clicked on AddBPs button and object is:-By.xpath: //button[@name='addMember']
+2017-08-21 17:02:08 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-21 17:02:08 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-21 17:02:08 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-21 17:02:44 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-21 17:02:46 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-21 17:02:46 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-21 17:03:51 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-21 17:03:52 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-21 17:03:52 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-21 17:04:28 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-21 17:04:29 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-21 17:04:29 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-21 17:04:40 INFO  TestBase:92 - Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']
+2017-08-21 17:04:45 INFO  TestBase:92 - Clicked on Add button and object is:-By.xpath: //span[@id='addNewBP']
+2017-08-21 17:04:50 INFO  TestBase:92 - Entered BP Name and object is:-By.xpath: .//*[@id='bpName']
+2017-08-21 17:04:50 INFO  TestBase:92 - Entered ceid and object is:-By.xpath: .//*[@id='ceid']
+2017-08-21 17:04:50 INFO  TestBase:92 - Entered Country and object is:-By.xpath: .//*[@id='country']
+2017-08-21 17:05:01 INFO  TestBase:92 - Clicked on AddBPs button and object is:-By.xpath: //button[@name='addMember']
+2017-08-21 17:06:15 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-21 17:06:15 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-21 17:06:15 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-21 17:06:52 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-21 17:06:53 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-21 17:06:54 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-21 17:07:04 INFO  TestBase:92 - Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']
+2017-08-21 17:07:09 INFO  TestBase:92 - Clicked on Add button and object is:-By.xpath: //span[@id='addNewBP']
+2017-08-21 17:07:14 INFO  TestBase:92 - Entered BP Name and object is:-By.xpath: .//*[@id='bpName']
+2017-08-21 17:07:14 INFO  TestBase:92 - Entered ceid and object is:-By.xpath: .//*[@id='ceid']
+2017-08-21 17:07:14 INFO  TestBase:92 - Entered Country and object is:-By.xpath: .//*[@id='country']
+2017-08-21 17:07:24 INFO  TestBase:92 - Clicked on AddBPs button and object is:-By.xpath: //button[@name='addMember']
+2017-08-21 17:17:11 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-21 17:17:11 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-21 17:17:12 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-21 17:17:48 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-21 17:17:50 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-21 17:17:50 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-21 17:18:00 INFO  TestBase:92 - Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']
+2017-08-21 17:18:05 INFO  TestBase:92 - Clicked on Add button and object is:-By.xpath: //span[@id='addNewBP']
+2017-08-21 17:18:10 INFO  TestBase:92 - Entered BP Name and object is:-By.xpath: .//*[@id='bpName']
+2017-08-21 17:18:11 INFO  TestBase:92 - Entered ceid and object is:-By.xpath: .//*[@id='ceid']
+2017-08-21 17:18:11 INFO  TestBase:92 - Entered Country and object is:-By.xpath: .//*[@id='country']
+2017-08-21 17:18:21 INFO  TestBase:92 - Clicked on AddBPs button and object is:-By.xpath: //button[@name='addMember']
+2017-08-22 11:10:42 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 11:10:42 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 11:10:42 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 11:11:19 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 11:11:21 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-22 11:11:22 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-22 11:11:32 INFO  TestBase:92 - Entered Search:-By.xpath: .//*[@id='search_inc_mem']and object is:-By.xpath: .//*[@id='search_inc_mem']
+2017-08-22 11:15:13 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 11:15:13 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 11:15:13 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 11:15:49 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 11:15:51 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-22 11:15:52 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-22 11:16:02 INFO  TestBase:92 - Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']
+2017-08-22 11:16:07 INFO  TestBase:92 - Clicked on Add button and object is:-By.xpath: //span[@id='addNewBP']
+2017-08-22 11:16:12 INFO  TestBase:92 - Entered BP Name and object is:-By.xpath: .//*[@id='bpName']
+2017-08-22 11:16:12 INFO  TestBase:92 - Entered ceid and object is:-By.xpath: .//*[@id='ceid']
+2017-08-22 11:16:13 INFO  TestBase:92 - Entered Country and object is:-By.xpath: .//*[@id='country']
+2017-08-22 11:16:23 INFO  TestBase:92 - Clicked on AddBPs button and object is:-By.xpath: //button[@name='addMember']
+2017-08-22 11:16:28 INFO  TestBase:92 - Clicked on :-By.xpath: .//*[@id='individualBP']/div/div[4]/div/div[2]/button
+2017-08-22 11:16:34 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-22 11:16:34 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-22 11:16:45 INFO  TestBase:92 - Displayed new incentive in List and object isBy.xpath: .//*[@id='individualBP']/div/div[3]//tbody
+2017-08-22 11:50:55 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 11:50:55 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 11:50:56 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 11:51:32 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 11:53:14 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 11:53:14 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 11:53:14 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 11:53:51 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 11:53:53 INFO  TestBase:92 - Click on New Incentive in list and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-22 11:56:58 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 11:56:58 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 11:56:58 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 11:57:34 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 11:57:36 INFO  TestBase:92 - Click on New Incentive in list and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-22 11:57:36 INFO  TestBase:92 - Updated description:-test1503383256274and object is:-By.xpath: //textarea[@name='incentiveDescription']
+2017-08-22 11:57:41 INFO  TestBase:92 - clicked on Save button and object is:-By.xpath: //button[@value='submit']
+2017-08-22 11:59:03 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 11:59:03 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 11:59:04 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 11:59:40 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 11:59:42 INFO  TestBase:92 - Displayed updated incentive in List and object isBy.xpath: html/body/div[2]/div/div[3]/div/table/tbody/tr[1]/td[1]
+2017-08-22 11:59:42 INFO  TestBase:92 - Clicked on updated incentive in List and object isBy.xpath: html/body/div[2]/div/div[3]/div/table/tbody/tr[1]/td[1]
+2017-08-22 12:01:16 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 12:01:17 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 12:01:17 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 12:01:53 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 12:01:55 INFO  TestBase:92 - Displayed updated incentive in List and object isBy.xpath: html/body/div[2]/div/div[3]/div/table/tbody/tr[1]/td[1]
+2017-08-22 12:01:55 INFO  TestBase:92 - Clicked on updated incentive in List and object isBy.xpath: html/body/div[2]/div/div[3]/div/table/tbody/tr[1]/td[1]
+2017-08-22 12:02:05 INFO  TestBase:92 - clicked on Cancel button and object is:-By.xpath: .//*[@id='cancel']
+2017-08-22 12:02:55 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 12:02:55 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 12:02:55 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 12:03:33 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 12:03:35 INFO  TestBase:92 - Selected incentive and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-22 12:03:38 INFO  TestBase:92 - Overview button displayed and clicked
+2017-08-22 12:03:43 INFO  TestBase:92 - clicked on Cancel button and object is:-By.xpath: .//*[@id='cancel']
+2017-08-22 14:09:00 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 14:09:00 INFO  TestBase:92 - creating object of chrome
+2017-08-22 14:09:44 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 14:09:44 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 14:09:45 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 14:10:21 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 14:17:27 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 14:17:28 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 14:17:28 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 14:18:03 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 14:21:18 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 14:21:18 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 14:21:18 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 14:47:22 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 14:47:22 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 14:47:22 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 14:47:59 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 14:48:01 INFO  TestBase:92 - clicked on newIncentive button and object is:-By.xpath: //a[@id='newincentive']
+2017-08-22 14:48:01 INFO  TestBase:92 - Entered incentiveName:-Test1503393481390and object is:-By.xpath: .//*[@id='incentiveName']
+2017-08-22 14:48:01 INFO  TestBase:92 - Entered Description:-Test1503393481572and object is:-By.xpath: .//*[@id='incentiveDescription']
+2017-08-22 14:48:01 INFO  TestBase:92 - selected Status:-Pendingand object is:-By.xpath: .//*[@id='status']
+2017-08-22 14:48:02 INFO  TestBase:92 - Entered BeginDate:-08/12/2017and object is:-By.xpath: .//*[@id='startDate']
+2017-08-22 14:48:02 INFO  TestBase:92 - Entered endDate:-08/20/2017and object is:-By.xpath: .//*[@id='endDate']
+2017-08-22 14:48:07 INFO  TestBase:92 - clicked on CreateIncentive button and object is:-By.xpath: //button[contains(.,'Create Incentive')]
+2017-08-22 14:56:25 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 14:56:25 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 14:56:26 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 14:57:01 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 14:57:01 INFO  TestBase:92 - Displayed new incentive in List and object isBy.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-22 14:57:03 INFO  TestBase:92 - creating object of chrome
+2017-08-22 14:57:05 INFO  TestBase:92 - Navigate to url
+2017-08-22 14:57:07 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 14:57:08 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 14:57:08 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 14:57:43 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 14:57:45 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-22 14:57:45 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-22 14:58:16 INFO  TestBase:92 - creating object of chrome
+2017-08-22 14:58:17 INFO  TestBase:92 - Navigate to url
+2017-08-22 14:58:19 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 14:58:20 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 14:58:20 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 14:58:56 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 14:58:57 INFO  TestBase:92 - clicked on newIncentive button and object is:-By.xpath: //a[@id='newincentive']
+2017-08-22 14:58:58 INFO  TestBase:92 - Entered incentiveName:-Test1503394137961and object is:-By.xpath: .//*[@id='incentiveName']
+2017-08-22 14:58:58 INFO  TestBase:92 - Entered Description:-Test1503394138152and object is:-By.xpath: .//*[@id='incentiveDescription']
+2017-08-22 14:58:58 INFO  TestBase:92 - selected Status:-Pendingand object is:-By.xpath: .//*[@id='status']
+2017-08-22 14:58:58 INFO  TestBase:92 - Entered BeginDate:-08/12/2017and object is:-By.xpath: .//*[@id='startDate']
+2017-08-22 14:58:58 INFO  TestBase:92 - Entered endDate:-08/20/2017and object is:-By.xpath: .//*[@id='endDate']
+2017-08-22 14:59:03 INFO  TestBase:92 - clicked on CreateIncentive button and object is:-By.xpath: //button[contains(.,'Create Incentive')]
+2017-08-22 14:59:06 INFO  TestBase:92 - creating object of chrome
+2017-08-22 14:59:08 INFO  TestBase:92 - Navigate to url
+2017-08-22 14:59:10 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 14:59:10 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 14:59:10 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 14:59:46 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 14:59:48 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-22 14:59:48 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-22 14:59:59 INFO  TestBase:92 - creating object of chrome
+2017-08-22 15:00:00 INFO  TestBase:92 - Navigate to url
+2017-08-22 15:00:03 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 15:00:03 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 15:00:03 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 15:00:39 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 15:00:41 INFO  TestBase:92 - creating object of chrome
+2017-08-22 15:00:42 INFO  TestBase:92 - Navigate to url
+2017-08-22 15:00:45 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 15:00:45 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 15:00:45 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 15:01:21 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 15:01:28 INFO  TestBase:92 - Click on New Incentive in list and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-22 15:01:28 INFO  TestBase:92 - Verified Overview Button
+2017-08-22 15:01:35 INFO  TestBase:92 - clicked on Save button and object is:-By.xpath: //button[@value='submit']
+2017-08-22 15:01:35 INFO  TestBase:92 - creating object of chrome
+2017-08-22 15:01:36 INFO  TestBase:92 - Navigate to url
+2017-08-22 15:01:39 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 15:01:39 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 15:01:39 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 15:02:15 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 15:02:17 INFO  TestBase:92 - Click on New Incentive in list and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-22 15:02:17 INFO  TestBase:92 - Updated description:-test1503394337313and object is:-By.xpath: //textarea[@name='incentiveDescription']
+2017-08-22 15:02:23 INFO  TestBase:92 - clicked on Save button and object is:-By.xpath: //button[@value='submit']
+2017-08-22 15:02:23 INFO  TestBase:92 - creating object of chrome
+2017-08-22 15:02:24 INFO  TestBase:92 - Navigate to url
+2017-08-22 15:02:27 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 15:02:27 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 15:02:27 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 15:03:03 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 15:03:05 INFO  TestBase:92 - Displayed updated incentive in List and object isBy.xpath: html/body/div[2]/div/div[3]/div/table/tbody/tr[1]/td[1]
+2017-08-22 15:03:05 INFO  TestBase:92 - Clicked on updated incentive in List and object isBy.xpath: html/body/div[2]/div/div[3]/div/table/tbody/tr[1]/td[1]
+2017-08-22 15:03:15 INFO  TestBase:92 - clicked on Cancel button and object is:-By.xpath: .//*[@id='cancel']
+2017-08-22 15:03:15 INFO  TestBase:92 - creating object of chrome
+2017-08-22 15:03:16 INFO  TestBase:92 - Navigate to url
+2017-08-22 15:03:19 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 15:03:19 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 15:03:19 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 15:03:55 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 15:03:57 INFO  TestBase:92 - Selected incentive and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-22 15:04:00 INFO  TestBase:92 - Overview button displayed and clicked
+2017-08-22 15:04:05 INFO  TestBase:92 - clicked on Cancel button and object is:-By.xpath: .//*[@id='cancel']
+2017-08-22 15:11:08 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 15:11:08 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 15:11:08 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 15:11:44 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 15:11:44 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-22 15:13:16 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 15:13:16 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 15:13:16 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 15:13:52 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 15:13:52 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-22 15:17:07 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 15:17:07 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 15:17:07 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 15:17:43 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 15:17:43 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-22 15:21:42 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 15:21:42 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 15:21:42 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 15:22:18 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 15:22:19 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]/a
+2017-08-22 15:22:19 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-22 15:22:20 INFO  TestBase:92 - Clicked on MembershipType Dropdown:-By.xpath: .//*[@id='membership']/div[1]/div/div/div/select/option[contains(text(),'Individual BPs')]
+2017-08-22 15:22:30 INFO  TestBase:92 - Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']
+2017-08-22 15:22:35 INFO  TestBase:92 - Clicked on Add button and object is:-By.xpath: //span[@id='addNewBP']
+2017-08-22 15:22:40 INFO  TestBase:92 - Entered BP Name and object is:-By.xpath: .//*[@id='bpName']
+2017-08-22 15:22:40 INFO  TestBase:92 - Entered ceid and object is:-By.xpath: .//*[@id='ceid']
+2017-08-22 15:22:40 INFO  TestBase:92 - Entered Country and object is:-By.xpath: .//*[@id='country']
+2017-08-22 15:22:51 INFO  TestBase:92 - Clicked on AddBPs button and object is:-By.xpath: //button[@name='addMember']
+2017-08-22 15:22:56 INFO  TestBase:92 - Clicked on :-By.xpath: .//*[@id='individualBP']/div/div[4]/div/div[2]/button
+2017-08-22 15:34:17 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 15:34:17 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 15:34:17 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 15:34:53 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 15:34:55 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]/a
+2017-08-22 15:34:55 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-22 15:34:56 INFO  TestBase:92 - Clicked on MembershipType Dropdown:-By.xpath: .//*[@id='membership']/div[1]/div/div/div/select/option[contains(text(),'Individual BPs')]
+2017-08-22 15:35:06 INFO  TestBase:92 - Displayed new incentive in List and object isBy.xpath: .//*[@id='individualBP']/div/div[3]//tbody
+2017-08-22 15:39:12 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-22 15:39:12 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-22 15:39:13 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-22 15:39:49 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-22 15:39:50 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]/a
+2017-08-22 15:39:50 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-22 15:39:51 INFO  TestBase:92 - Clicked on MembershipType Dropdown:-By.xpath: .//*[@id='membership']/div[1]/div/div/div/select/option[contains(text(),'Individual BPs')]
+2017-08-22 15:40:01 INFO  TestBase:92 - Displayed new incentive in List and object isBy.xpath: .//*[@id='individualBP']/div/div[3]//tbody
+2017-08-23 11:40:19 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-23 11:40:19 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-23 11:40:19 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-23 11:40:56 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-23 11:40:56 INFO  TestBase:92 - creating object of chrome
+2017-08-23 11:40:57 INFO  TestBase:92 - Navigate to url
+2017-08-23 11:41:00 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-23 11:41:01 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-23 11:41:01 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-23 11:41:37 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-23 11:41:44 INFO  TestBase:92 - clicked on newIncentive button and object is:-By.xpath: //a[@id='newincentive']
+2017-08-23 11:41:44 INFO  TestBase:92 - Entered incentiveName:-Test1503468704812and object is:-By.xpath: .//*[@id='incentiveName']
+2017-08-23 11:41:45 INFO  TestBase:92 - Entered Description:-Test1503468704995and object is:-By.xpath: .//*[@id='incentiveDescription']
+2017-08-23 11:41:45 INFO  TestBase:92 - selected Status:-Pendingand object is:-By.xpath: .//*[@id='status']
+2017-08-23 11:41:45 INFO  TestBase:92 - Entered BeginDate:-08/12/2017and object is:-By.xpath: .//*[@id='startDate']
+2017-08-23 11:41:45 INFO  TestBase:92 - Entered endDate:-08/20/2017and object is:-By.xpath: .//*[@id='endDate']
+2017-08-23 11:41:55 INFO  TestBase:92 - clicked on CreateIncentive button and object is:-By.xpath: //button[contains(.,'Create Incentive')]
+2017-08-23 11:41:58 INFO  TestBase:92 - creating object of chrome
+2017-08-23 11:42:00 INFO  TestBase:92 - Navigate to url
+2017-08-23 11:42:03 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-23 11:42:04 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-23 11:42:04 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-23 11:42:40 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-23 11:42:40 INFO  TestBase:92 - Displayed new incentive in List and object isBy.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-23 11:42:40 INFO  TestBase:92 - creating object of chrome
+2017-08-23 11:42:42 INFO  TestBase:92 - Navigate to url
+2017-08-23 11:42:45 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-23 11:42:45 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-23 11:42:45 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-23 11:43:21 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-23 11:43:26 INFO  TestBase:92 - Click on New Incentive in list and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-23 11:43:46 INFO  TestBase:92 - creating object of chrome
+2017-08-23 11:43:48 INFO  TestBase:92 - Navigate to url
+2017-08-23 11:43:51 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-23 11:43:51 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-23 11:43:51 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-23 11:44:28 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-23 11:44:33 INFO  TestBase:92 - Click on New Incentive in list and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-23 11:44:36 INFO  TestBase:92 - Updated description:-test1503468873554and object is:-By.xpath: //textarea[@name='incentiveDescription']
+2017-08-23 11:44:46 INFO  TestBase:92 - clicked on Save button and object is:-By.xpath: //button[@value='submit']
+2017-08-23 11:44:46 INFO  TestBase:92 - creating object of chrome
+2017-08-23 11:44:48 INFO  TestBase:92 - Navigate to url
+2017-08-23 11:44:51 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-23 11:44:51 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-23 11:44:51 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-23 11:45:28 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-23 11:45:35 INFO  TestBase:92 - Displayed updated incentive in List and object isBy.xpath: html/body/div[2]/div/div[3]/div/table/tbody/tr[1]/td[1]/a
+2017-08-23 11:45:35 INFO  TestBase:92 - Clicked on updated incentive in List and object isBy.xpath: html/body/div[2]/div/div[3]/div/table/tbody/tr[1]/td[1]/a
+2017-08-23 11:45:50 INFO  TestBase:92 - clicked on Cancel button and object is:-By.xpath: .//*[@id='cancel']
+2017-08-23 11:45:50 INFO  TestBase:92 - creating object of chrome
+2017-08-23 11:45:52 INFO  TestBase:92 - Navigate to url
+2017-08-23 11:45:55 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-23 11:45:55 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-23 11:45:55 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-23 11:46:31 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-23 11:46:35 INFO  TestBase:92 - Selected incentive and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-23 11:46:38 INFO  TestBase:92 - Overview button displayed and clicked
+2017-08-23 11:46:43 INFO  TestBase:92 - clicked on Cancel button and object is:-By.xpath: .//*[@id='cancel']
+2017-08-23 11:46:43 INFO  TestBase:92 - creating object of chrome
+2017-08-23 11:46:44 INFO  TestBase:92 - Navigate to url
+2017-08-23 11:46:47 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-23 11:46:48 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-23 11:46:48 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-23 11:47:24 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-23 11:47:26 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]/a
+2017-08-23 11:47:26 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-23 11:47:27 INFO  TestBase:92 - Clicked on MembershipType Dropdown:-By.xpath: .//*[@id='membership']/div[1]/div/div/div/select/option[contains(text(),'Individual BPs')]
+2017-08-23 11:47:37 INFO  TestBase:92 - Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']
+2017-08-23 11:47:42 INFO  TestBase:92 - Clicked on Add button and object is:-By.xpath: //span[@id='addNewBP']
+2017-08-23 11:47:48 INFO  TestBase:92 - Entered BP Name and object is:-By.xpath: .//*[@id='bpName']
+2017-08-23 11:47:48 INFO  TestBase:92 - Entered ceid and object is:-By.xpath: .//*[@id='ceid']
+2017-08-23 11:47:48 INFO  TestBase:92 - Entered Country and object is:-By.xpath: .//*[@id='country']
+2017-08-23 11:47:58 INFO  TestBase:92 - Clicked on AddBPs button and object is:-By.xpath: //button[@name='addMember']
+2017-08-23 11:48:04 INFO  TestBase:92 - Clicked on :-By.xpath: .//*[@id='individualBP']/div/div[4]/div/div[2]/button
+2017-08-23 11:48:04 INFO  TestBase:92 - creating object of chrome
+2017-08-23 11:48:05 INFO  TestBase:92 - Navigate to url
+2017-08-23 11:48:08 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-23 11:48:08 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-23 11:48:08 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-23 11:48:45 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-23 11:48:46 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]/a
+2017-08-23 11:48:47 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-23 11:48:47 INFO  TestBase:92 - Clicked on MembershipType Dropdown:-By.xpath: .//*[@id='membership']/div[1]/div/div/div/select/option[contains(text(),'Individual BPs')]
+2017-08-23 11:48:58 INFO  TestBase:92 - Displayed new incentive in List and object isBy.xpath: .//*[@id='individualBP']/div/div[3]//tbody
+2017-08-23 11:52:15 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-23 11:52:15 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-23 11:52:15 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-23 11:52:51 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-23 11:52:53 INFO  TestBase:92 - Click on New Incentive in list and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]
+2017-08-23 11:52:55 INFO  TestBase:92 - Verified Overview Button
+2017-08-23 11:52:59 INFO  TestBase:92 - clicked on Save button and object is:-By.xpath: //button[@value='submit']
+2017-08-23 12:26:01 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-23 12:26:01 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-23 12:26:01 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-23 19:54:39 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-23 19:54:39 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-23 19:54:39 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-23 19:55:16 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-23 19:55:16 INFO  TestBase:92 - creating object of chrome
+2017-08-23 19:55:18 INFO  TestBase:92 - Navigate to url
+2017-08-23 19:55:22 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-23 19:55:23 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-23 19:55:23 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-23 19:55:59 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-23 19:56:02 INFO  TestBase:92 - clicked on newIncentive button and object is:-By.xpath: //a[@id='newincentive']
+2017-08-23 19:56:02 INFO  TestBase:92 - Entered incentiveName:-Test1503498362206and object is:-By.xpath: .//*[@id='incentiveName']
+2017-08-23 19:56:02 INFO  TestBase:92 - Entered Description:-Test1503498362584and object is:-By.xpath: .//*[@id='incentiveDescription']
+2017-08-23 19:56:02 INFO  TestBase:92 - selected Status:-Pendingand object is:-By.xpath: .//*[@id='status']
+2017-08-23 19:56:03 INFO  TestBase:92 - Entered BeginDate:-08/12/2017and object is:-By.xpath: .//*[@id='startDate']
+2017-08-23 19:56:03 INFO  TestBase:92 - Entered endDate:-08/20/2017and object is:-By.xpath: .//*[@id='endDate']
+2017-08-23 19:56:09 INFO  TestBase:92 - clicked on CreateIncentive button and object is:-By.xpath: //button[contains(.,'Create Incentive')]
+2017-08-24 11:41:52 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-24 11:41:53 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-24 11:41:53 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-24 11:42:29 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-24 11:42:31 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]/a
+2017-08-24 11:42:31 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-24 11:42:31 INFO  TestBase:92 - Clicked on MembershipType Dropdown:-By.xpath: .//*[@id='membership']/div[1]/div/div/div/select/option[contains(text(),'Individual BPs')]
+2017-08-24 11:42:41 INFO  TestBase:92 - Displayed new incentive in List and object isBy.xpath: .//*[@id='individualBP']/div/div[3]//tbody
+2017-08-24 11:47:13 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-24 11:47:13 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-24 11:47:13 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-24 11:47:49 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-24 11:47:51 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]/a
+2017-08-24 11:47:51 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-24 11:47:52 INFO  TestBase:92 - Clicked on MembershipType Dropdown:-By.xpath: .//*[@id='membership']/div[1]/div/div/div/select/option[contains(text(),'Individual BPs')]
+2017-08-24 11:48:02 INFO  TestBase:92 - Displayed individualBP row with CEID and object isBy.xpath: .//*[@id='individualBP']/div/div[3]//tbody
+2017-08-24 12:22:58 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-24 12:22:58 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-24 12:22:58 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-24 12:23:34 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-24 12:23:36 INFO  TestBase:92 - clicked on newIncentive button and object is:-By.xpath: //a[@id='newincentive']
+2017-08-24 12:23:36 INFO  TestBase:92 - Entered incentiveName:-Test1503557616689and object is:-By.xpath: .//*[@id='incentiveName']
+2017-08-24 12:23:37 INFO  TestBase:92 - Entered Description:-Test1503557616892and object is:-By.xpath: .//*[@id='incentiveDescription']
+2017-08-24 12:23:37 INFO  TestBase:92 - selected Status:-Pendingand object is:-By.xpath: .//*[@id='status']
+2017-08-24 12:23:37 INFO  TestBase:92 - Entered BeginDate:-08/12/2017and object is:-By.xpath: .//*[@id='startDate']
+2017-08-24 12:23:37 INFO  TestBase:92 - Entered endDate:-08/20/2017and object is:-By.xpath: .//*[@id='endDate']
+2017-08-24 12:23:42 INFO  TestBase:92 - clicked on CreateIncentive button and object is:-By.xpath: //button[contains(.,'Create Incentive')]
+2017-08-24 12:32:28 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-24 12:32:28 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-24 12:32:28 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-24 12:33:04 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-24 12:33:06 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]/a
+2017-08-24 12:33:06 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-24 12:33:09 INFO  TestBase:92 - Clicked on MembershipType Dropdown:-By.xpath: .//*[@id='membership']/div[1]/div/div/div/select/option[contains(text(),'Individual BPs')]
+2017-08-24 12:33:19 INFO  TestBase:92 - Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']
+2017-08-24 12:33:24 INFO  TestBase:92 - Clicked on Add button and object is:-By.xpath: //span[@id='addNewBP']
+2017-08-24 12:33:30 INFO  TestBase:92 - Entered BP Name and object is:-By.xpath: .//*[@id='bpName']
+2017-08-24 12:33:30 INFO  TestBase:92 - Entered ceid and object is:-By.xpath: .//*[@id='ceid']
+2017-08-24 12:33:30 INFO  TestBase:92 - Entered Country and object is:-By.xpath: .//*[@id='country']
+2017-08-24 12:33:40 INFO  TestBase:92 - Clicked on AddBPs button and object is:-By.xpath: //button[@name='addMember']
+2017-08-24 12:33:48 INFO  TestBase:92 - Clicked on :-By.xpath: .//*[@id='individualBP']/div/div[4]/div/div[2]/button
+2017-08-24 12:42:13 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-24 12:42:13 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-24 12:42:13 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-24 12:42:49 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-24 12:42:51 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]/a
+2017-08-24 12:42:51 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-24 12:42:51 INFO  TestBase:92 - Clicked on MembershipType Dropdown:-By.xpath: .//*[@id='membership']/div[1]/div/div/div/select/option[contains(text(),'Individual BPs')]
+2017-08-24 12:43:02 INFO  TestBase:92 - Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']
+2017-08-24 12:43:07 INFO  TestBase:92 - Entered Ceid in Search filed of AddMember Popup:-By.xpath: .//*[@id='search_mem']and object is:-By.xpath: .//*[@id='search_mem']
+2017-08-24 13:00:50 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-24 13:00:50 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-24 13:00:50 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-24 13:01:26 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-24 13:01:28 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]/a
+2017-08-24 13:01:28 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-24 13:01:28 INFO  TestBase:92 - Clicked on MembershipType Dropdown:-By.xpath: .//*[@id='membership']/div[1]/div/div/div/select/option[contains(text(),'Individual BPs')]
+2017-08-24 13:01:38 INFO  TestBase:92 - Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']
+2017-08-24 13:02:47 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-24 13:02:47 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-24 13:02:48 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-24 13:03:24 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-24 13:03:25 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]/a
+2017-08-24 13:03:25 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-24 13:03:26 INFO  TestBase:92 - Clicked on MembershipType Dropdown:-By.xpath: .//*[@id='membership']/div[1]/div/div/div/select/option[contains(text(),'Individual BPs')]
+2017-08-24 13:03:36 INFO  TestBase:92 - Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']
+2017-08-24 14:44:28 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-24 14:44:29 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-24 14:44:29 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-24 14:45:05 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-24 14:45:07 INFO  TestBase:92 - Selected incentive and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]/a
+2017-08-24 14:45:07 INFO  TestBase:92 - clicked on ApprovalTab and object is:-By.xpath: //a[contains(text(),'Approval Team')]
+2017-08-24 14:45:08 INFO  TestBase:92 - clicked on AddApproverbutton and object is:-By.xpath: //a[contains(text(),'Add Approver')]
+2017-08-24 14:45:08 INFO  TestBase:92 - Entered ApproverName:-rsaxenanand object is:-By.xpath: //input[@id='search_addApp']
+2017-08-24 14:45:31 INFO  TestBase:92 - creating object of chrome
+2017-08-24 14:45:33 INFO  TestBase:92 - Navigate to url
+2017-08-24 14:45:36 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-24 14:45:36 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-24 14:45:36 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-24 14:46:12 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-24 14:46:14 INFO  TestBase:92 - Selected incentive and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]/a
+2017-08-24 14:46:14 INFO  TestBase:92 - clicked on ApprovalTab and object is:-By.xpath: //a[contains(text(),'Approval Team')]
+2017-08-24 14:46:15 INFO  TestBase:92 - clicked on AddApproverbutton and object is:-By.xpath: //a[contains(text(),'Add Approver')]
+2017-08-24 14:46:15 INFO  TestBase:92 - Entered ApproverName:-rsaxenanand object is:-By.xpath: //input[@id='search_addApp']
+2017-08-24 14:59:07 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-24 14:59:07 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-24 14:59:07 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-24 14:59:44 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-24 14:59:46 INFO  TestBase:92 - Selected incentive and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]/a
+2017-08-24 14:59:46 INFO  TestBase:92 - clicked on solution tab and object is:-By.xpath: //a[contains(text(),'Solutions')]
+2017-08-24 14:59:49 INFO  TestBase:92 - clicked on Add Existing Solution and object is:-By.xpath: //a[contains(text(),'Add Existing Solutions')]
+2017-08-24 14:59:52 INFO  TestBase:92 - clicked on checkbox and object is:-By.xpath: //table[@id='viewSolutionTable']/tbody/tr[1]/td[1]//label/div
+2017-08-24 14:59:56 INFO  TestBase:92 - clicked on Add button and object is:-By.xpath: //a[@id='addsolution'][contains(text(),'Add')]
+2017-08-24 15:16:39 INFO  TestBase:92 - ==========Starting VerifyloginWithValidCredentials test=========
+2017-08-24 15:16:40 INFO  TestBase:92 - Entered Email Address:-prasanjs@in.ibm.comand object is:-By.xpath: //input[@aria-label='Your IBM email address (e.g. jdoe@us.ibm.com)']
+2017-08-24 15:16:40 INFO  TestBase:92 - Entered Password:-PRAsan12345and object is:-By.xpath: //input[@aria-label='password']
+2017-08-24 15:17:16 INFO  TestBase:92 - ==========Ending VerifyloginWithValidCredentials test=========
+2017-08-24 15:17:18 INFO  TestBase:92 - Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]/a
+2017-08-24 15:17:18 INFO  TestBase:92 - Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']
+2017-08-24 15:17:19 INFO  TestBase:92 - Clicked on MembershipType Dropdown:-By.xpath: .//*[@id='membership']/div[1]/div/div/div/select/option[contains(text(),'Individual BPs')]
+2017-08-24 15:17:29 INFO  TestBase:92 - Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']
+2017-08-24 15:17:34 INFO  TestBase:92 - Clicked on Add button and object is:-By.xpath: //span[@id='addNewBP']
+2017-08-24 15:17:40 INFO  TestBase:92 - Entered BP Name and object is:-By.xpath: .//*[@id='bpName']
+2017-08-24 15:17:40 INFO  TestBase:92 - Entered ceid and object is:-By.xpath: .//*[@id='ceid']
+2017-08-24 15:17:40 INFO  TestBase:92 - Entered Country and object is:-By.xpath: .//*[@id='country']
+2017-08-24 15:17:50 INFO  TestBase:92 - Clicked on AddBPs button and object is:-By.xpath: //button[@name='addMember']
+2017-08-24 15:17:58 INFO  TestBase:92 - Clicked on :-By.xpath: .//*[@id='individualBP']/div/div[4]/div/div[2]/button

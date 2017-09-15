@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99576_001_AddNewBPmember"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99576_002_VerifyNewmemberadded"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99576_003_Searchaddednewmember"/>
+      
+      <class name="com.ibm.mySA_IA.testScripts.TC_99576_005_VerifySearchInMembershipTab"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99576_004_VerifyBPmembershipOverlay"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

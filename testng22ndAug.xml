@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.ibm.mySA_IA.testScripts.TC001_TestLogin"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99455_001_TestCreateIncentive"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99455_002_VerifyNewIncentive"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99455_003_VerifyOverview"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99471_001_TestUpdateIncentive"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99471_002_VerifyUpdatedIncentiveInList"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99471_003_VerifyOverviewinUpdatedIncentive"/>
+       <class name="com.ibm.mySA_IA.testScripts.TC_113158_001_VerifyAddedNewBP4Incentive"/>
+       <class name="com.ibm.mySA_IA.testScripts.TC_113158_002_VerifyAddedNewBPinSystem"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

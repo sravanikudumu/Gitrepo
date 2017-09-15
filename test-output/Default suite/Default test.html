@@ -1,0 +1,100 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Aug 24 15:16:33 IST 2017</td>
+</tr>
+<tr><td>Total time:</td><td>91 seconds (91295 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.ibm.mySA_IA.testScripts.TC_113158_001_VerifyAddedNewBP4Incentive.testVerifyAddedNewBp()'><b>testVerifyAddedNewBp</b><br>Test class: com.ibm.mySA_IA.testScripts.TC_113158_001_VerifyAddedNewBP4Incentive<br/>
+<a href="#Output-1627396964" onClick='toggleBox("Output-1627396964", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1627396964" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1627396964">
+Clicked on NewIncentive in List and object is:-By.xpath: .//*[@id='viewTable']/tbody/tr[1]/td[1]/a<br/>
+Clicked on Membership tab:-By.xpath: .//*[@id='tab-control-demo-2']<br/>
+Clicked on MembershipType Dropdown:-By.xpath: .//*[@id='membership']/div[1]/div/div/div/select/option[contains(text(),'Individual BPs')]<br/>
+Clicked on AddMember Button:-By.xpath: .//*[@id='addMember']<br/>
+Clicked on Add button and object is:-By.xpath: //span[@id='addNewBP']<br/>
+Entered BP Name and object is:-By.xpath: .//*[@id='bpName']<br/>
+Entered ceid and object is:-By.xpath: .//*[@id='ceid']<br/>
+Entered Country and object is:-By.xpath: .//*[@id='country']<br/>
+Clicked on AddBPs button and object is:-By.xpath: //button[@name='addMember']<br/>
+Clicked on :-By.xpath: .//*[@id='individualBP']/div/div[4]/div/div[2]/button<br/>
+</div>
+</td>
+<td></td>
+<td>45</td>
+<td>com.ibm.mySA_IA.testScripts.TC_113158_001_VerifyAddedNewBP4Incentive@71318ec4</td></tr>
+</table><p>
+</body>
+</html>

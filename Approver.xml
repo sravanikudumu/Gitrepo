@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99582_001_AddNewApprover"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99582_002_VerifyNewApprover"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99582_003_VerifyCreatedIncentive"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

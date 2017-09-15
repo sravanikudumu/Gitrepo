@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+   <!--   <class name="com.ibm.mySA_IA.testScripts.TC001_TestLogin"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99455_001_TestCreateIncentive"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99455_002_VerifyNewIncentive"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99455_003_VerifyOverview"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99471_001_TestUpdateIncentive"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99471_002_VerifyUpdatedIncentiveInList"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99471_003_VerifyOverviewinUpdatedIncentive"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_113158_001_VerifyAddedNewBP4Incentive"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_113158_002_VerifyAddedNewBPinSystem"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99576_001_AddNewBPmember"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99576_002_VerifyNewmemberadded"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99576_003_Searchaddednewmember"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99576_005_VerifySearchInMembershipTab"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99576_004_VerifyBPmembershipOverlay"/>--> 
+    <class name="com.ibm.mySA_IA.testScripts.TC_99582_001_AddNewApprover"/>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99582_002_VerifyNewApprover"/> 
+      <class name="com.ibm.mySA_IA.testScripts.TC_99582_003_VerifyCreatedIncentive"/> 
+    <!--    <class name="com.ibm.mySA_IA.testScripts.TC_99578_001_AddNewSolution"/>
+     <class name="com.ibm.mySA_IA.testScripts.TC_99578_002_VerifySolution"/>
+     <class name="com.ibm.mySA_IA.testScripts.TC_99578_003_VerifySolIncentive"/>
+    <class name="com.ibm.mySA_IA.testScripts.TC_99580_001_AddExistingsol"/>
+     <class name="com.ibm.mySA_IA.testScripts.TC_99580_002_VerifySolution"/>
+     <class name="com.ibm.mySA_IA.testScripts.TC_99580_003_Verifycreatedsolution"/>-->
+    
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

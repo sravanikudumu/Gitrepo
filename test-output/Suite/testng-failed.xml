@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.ibm.mySA_IA.testScripts.TC_99580_001_AddExistingsol">
+        <methods>
+          <include name="testAddExistingSolution"/>
+        </methods>
+      </class> <!-- com.ibm.mySA_IA.testScripts.TC_99580_001_AddExistingsol -->
+      <class name="com.ibm.mySA_IA.testScripts.TC_99578_003_VerifySolIncentive">
+        <methods>
+          <include name="testVerifySolutionIncentive"/>
+        </methods>
+      </class> <!-- com.ibm.mySA_IA.testScripts.TC_99578_003_VerifySolIncentive -->
+      <class name="com.ibm.mySA_IA.testScripts.TC_99580_003_Verifycreatedsolution">
+        <methods>
+          <include name="testVerifyCreatedSolution"/>
+        </methods>
+      </class> <!-- com.ibm.mySA_IA.testScripts.TC_99580_003_Verifycreatedsolution -->
+      <class name="com.ibm.mySA_IA.testScripts.TC_99578_001_AddNewSolution">
+        <methods>
+          <include name="testAddNewSolution"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.ibm.mySA_IA.testScripts.TC_99578_001_AddNewSolution -->
+      <class name="com.ibm.mySA_IA.testScripts.TC_99578_002_VerifySolution">
+        <methods>
+          <include name="testVerifyNewSoln"/>
+        </methods>
+      </class> <!-- com.ibm.mySA_IA.testScripts.TC_99578_002_VerifySolution -->
+      <class name="com.ibm.mySA_IA.testScripts.TC_99580_002_VerifySolution">
+        <methods>
+          <include name="testverifyAddedSolution"/>
+        </methods>
+      </class> <!-- com.ibm.mySA_IA.testScripts.TC_99580_002_VerifySolution -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
